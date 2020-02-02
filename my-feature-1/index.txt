@@ -1,0 +1,7 @@
+Super mega awesome feature.
+With all integrations.
+100% tested.
+And all that. 
+And what not...
+Ah, one more thing! 
+Created with vim. 
